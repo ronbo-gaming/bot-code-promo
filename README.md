@@ -6,8 +6,11 @@ This repository contains the source code for a Discord bot designed to manage di
 Features:
 
 1 Add discount codes with expiration time and reduction percentage
+
 2 Check if a discount code is expired or still active
+
 3 Calculate discounted amount based on the provided reduction percentage
+
 4 Automated cleanup of expired codes and notifications to designated channels
 
 Usage:
