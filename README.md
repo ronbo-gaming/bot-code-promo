@@ -16,11 +16,17 @@ Features:
 Usage:
 
 Clone the repository: git clone https://github.com/yourusername/discord-discount-bot.git
+
 Install dependencies: pip install -r requirements.txt
+
 Replace placeholders in the code with your own Discord bot token, role ID, and channel IDs
+
 Run the bot: python bot.py
+
 Contributing:
+
 Contributions are welcome! Feel free to submit pull requests or open issues if you encounter any bugs or have suggestions for improvements.
 
 License:
+
 This project is licensed under the MIT License.
